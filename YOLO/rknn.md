@@ -1,6 +1,7 @@
 ### compiler路径
 `export TOOL_CHAIN=<交叉编译工具链的路径>`
 
+---
 
 ### 编译rknn_yolov5_demo报错
 执行 build-linux_RK3566_3568.sh 时，报错：
