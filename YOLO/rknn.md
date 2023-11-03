@@ -1,3 +1,5 @@
+[toc]
+
 ### compiler路径
 `export TOOL_CHAIN=<交叉编译工具链的路径>`
 
@@ -23,3 +25,10 @@ wsl2当前版本已经具备了连接usb的能力，不用在编译内核了
 2. powershell 中运行`usbipd wsl list`查看usb列表
 3. 运行`usbipd wsl attach --busid <BUSID>`连接usb到wsl
 4. 在wsl中`lsusb`查看
+
+---
+
+### 车牌识别
+
+github
+crnn_plate_recognition
